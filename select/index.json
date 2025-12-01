@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "though I fear, I still walk",
+  "base_artist": "ippo.tsk",
+  "createdAt": "2025-12-01T12:02:08.374644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "though I fear, I still walk",
+      "artist": "Ippotsk",
+      "has_synced": false,
+      "path": "select/01_though_I_fear,_I_still_walk_Ippotsk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "though I fear, I still walk",
+      "artist": "ippo.tsk",
+      "has_synced": false,
+      "path": "select/02_though_I_fear,_I_still_walk_ippo.tsk.txt"
+    }
+  ]
+}
